@@ -1,0 +1,175 @@
+=================
+CONELRAD 640-1240
+=================
+
+v1.4
+
+by
+
+Macabre Productions
+
+
+
+Note: This is a port of my original 'Fallout 3' mod.
+
+
+
+=========
+Changelog
+=========
+
+v1.1
+- Initial port
+
+v1.2
+- Tweaked scripting
+- PSA's edited to remove D.C. references
+- Sound adjustments
+
+V1.3
+- Random song selection greatly sweetened
+- Fixed glitch with music being too quiet on some users 
+  systems (5.1 channels & above wasn't properly demuxing 
+  nor downmixing audio, adjusted sound to compensate)
+- Station goes live immediately (previously after 10 secs)
+- Adjusted station start conditions (will start in DLC areas now)
+
+v1.4
+- Implemented various optimizations and fixes
+- Adjusted station start conditions
+
+
+
+========
+Features
+========
+
+This mod adds a new radio station to your Pip-Boy 3000. 
+
+The station plays 55 music tracks from the era of the Atomic 
+Threat, including 29 authentic public service announcements from 
+Civil Defense.
+
+CONELRAD (Control of Electromagnetic [or Electronic] Radiation) was a method
+of emergency broadcasting to the public of the United States in the event of
+enemy attack. It was intended to serve two purposes; to prevent Soviet
+bombers from homing in on American cities by using radio or TV stations as
+beacons, and to provide essential civil defense information on 640-1240.
+
+2 hours, 20 minutes of music across 55 tracks
+22 minutes of PSAs & Civil Defense
+
+The station is fully scripted as per official stations.
+
+
+
+==========
+Track List
+==========
+
+"Uranium Fever" Elton Britt
+"Old Man Atom" Sam Hinton
+"Advice to Joe" Roy Acuff
+"Atomic Energy" Sir Lancelot
+"Bert the Turtle (Duck & Cover Song)" Two-Ton Baker
+"Bikini" Dexter Gordon
+"Crawl Out Through the Fallout" Sheldon Allman
+"Fallout Shelter" Dore Alpert
+"Atomic Cocktail" Slim Quartette
+"Great Atomic Power" Louvin Brothers
+"Hydrogen Bomb" Al Rex
+"Jesus Hits Like an Atom Bomb" Valley Trio
+"Atom Bomb" Glenn Barber
+"A Bomb Bop" Mike Fernandez
+"Krushchev and The Devil" Jay Chevalier
+"Mr Stalin" Smith, Arthur
+"My Radiation Baby (My Teenage Fallout Queen)" George McKelvey
+"Old Man Atom" Sons of The Pioneers
+"Atom Bomb Baby" Five Stars
+"Radioactive Mama" Sheldon Allman
+"Aint I Right" Marty Robbins
+"Satellite" Teresa Brewer
+"Sputniks and Mutniks" Ray Anderson
+"Stalin Kicked the Bucket" Ray Anderson
+"The Hydrogen Bomb" Rogers, Al
+"Atomic Sermon" Billy Hughes
+"Trial of Francis Powers" Red River Dave
+"Uranium" Commodores
+"Russia Russia (Lay That Missile Down)" Prescott Reed
+"Atomic Bomb Blues" Homer Harris, Muddy Waters
+"Uranium Fever" Rudy Gaddis
+"Watch World War 3 (On Pay TV)" Crown City Four
+"Atomic Baby" Amos Milburn
+"West of the Wall" Fisher, Miss Toni, Shanklin
+"The Bear Flew Over the Ocean" Jimmie Driftwood
+"When That Hell Bomb Falls" Fred Kirby
+"H Bomb" V.A.
+"When They Found the Atomic power" Hawkshaw Hawkins
+"You Hit Me Like an Atomic Bomb" Fay Simmons
+"Tic Tic Tic" Doris Day
+"No No Joe" Hank Williams
+"When They Drop the Atomic Bomb" Doll, Jackie & His Pickled Peppers
+"Thirteen Women" Haley, Bill & Comets
+"Fujiyama Mama" Wanda Jackson
+"Get That Communist Joe" Kavaliers
+"Satellite Baby" Skip Stanley
+"Theres a Power Greater Than Atomic" Buchanan Brothers
+"Sputnik Satellite Girl" Four Ekkos
+"Atom Bomb Baby" Five Stars
+"I'm Gonna Dig Myself a Hole" Arthur Crudup
+"I'm No Communist" Carson Robison
+"Atomic Nightmare" Talbot Bros of Bermuda
+"Uranium Rock" Warren Smith
+"Atomic Power" Buchanan Brothers
+
+
+
+===========================================
+Installation & Uninstallation Instructions
+===========================================
+
+Simply use the Nexus Mod Manager to download and install
+the mod or the following manual install instructions:
+
+1. Extract and drop the DATA folder into your install folder 
+  (typically \Steam\steamapps\common\fallout new vegas\)
+2. Overwrite/merge files and folders if prompted
+3. Enable "Conelrad 640-1240.esp" plugin on the "Data Files" section of
+   the 'Fallout: New Vegas' Launcher (or in your 3rd party launcher)
+
+
+To uninstall simply delete the following file and folders:
+
+1. File    'Conelrad 640-1240.esp'  located at \Data\
+2. Folder  'Conelrad 640-1240'      located at \Data\Sound\Songs\
+3. Folder  'Conelrad 640-1240.esp'  located at \Data\Sound\Voice\
+
+
+
+============
+File History
+============
+
+10/23/2010
+- v1.1 released
+
+04/08/2012
+- v1.2 released
+
+07/18/2015
+- v1.3 released
+
+08/03/2015
+- v1.4 released
+
+
+
+=======
+Credits
+=======
+
+Mod Created by
+Macabre Productions
+
+Music sourced from digitization archives, such as Internet Archive's 
+78-RPM Digitization Projects.
