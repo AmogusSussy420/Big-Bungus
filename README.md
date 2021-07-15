@@ -14,5 +14,7 @@ Atomic nightmare / all along the watcher
 Atomic power / Ace of spades
 Atomic Sermon / Fortunate son
 Burt the turtle / paranoid black sabby
+Bikini/ All day and all night
+Crawllout fallout/ Psycho holiday
 get that communist joe/Ram Ranch
 My radiaton baby/Go to hell
